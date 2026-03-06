@@ -57,7 +57,8 @@ Personal website to showcase my projects and skills.
 ## 📫 Connect With Me
 
 📧 Email: navyasharma01k@gmail.com  
-💻 GitHub: https://github.com/student-navyasharma
+💼 LinkedIn: https://www.linkedin.com/in/navya-sharma-abab7a2b6/
+📸 Instagram: https://instagram.com/navyashrma_
 
 ---
 
