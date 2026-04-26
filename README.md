@@ -11,19 +11,22 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
-🔹 **House Price Prediction**  
-Machine learning model that predicts house prices using regression techniques.
+### 🔹 House Price Prediction  
+Machine learning model that predicts house prices using regression techniques.  
 
-🔹 **Movie Recommendation System**  
-Recommendation system built using collaborative filtering.
+### 🔹 Movie Recommendation System  
+Recommendation system built using collaborative filtering.  
 
-🔹 **Spam Classifier**  
-Machine learning model that classifies messages as spam or not spam.
+### 🔹 Spam Classifier  
+Machine learning model that classifies messages as spam or not spam.  
 
-🔹 **Portfolio Website**  
-Personal website to showcase my projects and skills.
+### 🔹 AskDocs (Document Q&A Chatbot)  
+A mini chatbot that allows users to upload documents and ask questions.  
+- Retrieves top 3 most relevant chunks using vector search  
+- Generates accurate answers using NLP techniques  
+- Built with a focus on efficient document understanding  
 
 ---
 
